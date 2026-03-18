@@ -5,3 +5,4 @@ matplotlib>=3.7
 pytest>=7.4
 nibabel>=5.4
 nilearn>=0.13
+mdtraj>=1.11
